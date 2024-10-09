@@ -1,5 +1,5 @@
 # A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL
-A Salesforce (Smartinternz) Project - A CRM APPLICATION FOR RICE MILL CRM
+A Salesforce (Smartinternz) Project - A CRM APPLICATION FOR RICE MILL
 
 Click the below link for video explanation of "CRM APPLICATION FOR WHOLESALE RICE MILL" LINK - 
 
